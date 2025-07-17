@@ -27,3 +27,23 @@ Write to summary/attendance_report.txt:
 
     Total Absences: 3
     Perfect Attendance: 2 students
+
+
+Task 3: Grade Analyzer
+
+Read grades.txt and students.txt
+Calculate average score per student
+Find highest and lowest scores
+Identify students with all scores above 90
+Write to summary/grade_analysis.txt:
+    Grade Analysis
+    --------------
+    Student Averages:
+    - Alice Johnson: 88.5
+    - Bob Smith: 83.0
+    - Charlie Brown: 92.5
+
+    Highest Score: 95 (Charlie Brown - Math)
+    Lowest Score: 78 (Bob Smith - Math)
+
+    Honor Roll (>90 average): Charlie Brown
