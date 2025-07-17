@@ -10,4 +10,20 @@ Write results to summary/student_count.txt:
     Grade 11: 2 students
 
 
-The rest of the tasks will be shared in the classroom....
+
+Task 2: Attendance Calculator
+
+Read attendance.txt
+Calculate attendance percentage for each student
+Count total absences
+Write to summary/attendance_report.txt:
+    Attendance Report
+    -----------------
+    Alice Johnson (101): 100% (2/2 days)
+    Bob Smith (102): 50% (1/2 days)
+    Charlie Brown (103): 50% (1/2 days)
+    Diana Prince (104): 100% (2/2 days)
+    Eve Wilson (105): 50% (1/2 days)
+
+    Total Absences: 3
+    Perfect Attendance: 2 students
