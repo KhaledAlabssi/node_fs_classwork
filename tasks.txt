@@ -1,0 +1,13 @@
+Tasks to Complete:
+Task 1: Student Counter
+
+Read students.txt
+Count total students
+Count students per grade level
+Write results to summary/student_count.txt:
+    Total Students: 5
+    Grade 10: 3 students
+    Grade 11: 2 students
+
+
+The rest of the tasks will be shared in the classroom....
