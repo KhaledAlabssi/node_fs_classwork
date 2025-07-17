@@ -1,0 +1,4 @@
+Math:3
+Science:4
+English:3
+History:2

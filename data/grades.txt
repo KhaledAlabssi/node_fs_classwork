@@ -1,0 +1,6 @@
+StudentID:101,Subject:Math,Score:85
+StudentID:101,Subject:Science,Score:92
+StudentID:102,Subject:Math,Score:78
+StudentID:102,Subject:Science,Score:88
+StudentID:103,Subject:Math,Score:95
+StudentID:103,Subject:Science,Score:90
